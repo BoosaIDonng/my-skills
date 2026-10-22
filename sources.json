@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "retrieved_date": "2026-10-22",
+  "policy": "Latest upstream default-branch commits at retrieval time; skill files are copied unchanged.",
+  "skills": [
+    {
+      "name": "academic-research-suite",
+      "path": "skills/academic-research-suite",
+      "repository": "Imbad0202/academic-research-skills-codex",
+      "repository_url": "https://github.com/Imbad0202/academic-research-skills-codex",
+      "upstream_path": "skills/academic-research-suite",
+      "branch": "main",
+      "commit": "71528d9349bcdacfbe94111f06d9e2d82215a44d",
+      "commit_url": "https://github.com/Imbad0202/academic-research-skills-codex/commit/71528d9349bcdacfbe94111f06d9e2d82215a44d",
+      "commit_date": "2026-10-16T09:22:19Z",
+      "license": "CC-BY-NC-4.0",
+      "root_notices_copied": [
+        "LICENSE"
+      ],
+      "notes": "",
+      "skill_git_blob": "1e2f8abc142f9ded85f20016916b2cca03822dc0",
+      "upstream_files_copied_unchanged": 2639,
+      "version": "3.23.1"
+    },
+    {
+      "name": "diagnosing-bugs",
+      "path": "skills/diagnosing-bugs",
+      "repository": "mattpocock/skills",
+      "repository_url": "https://github.com/mattpocock/skills",
+      "upstream_path": "skills/engineering/diagnosing-bugs",
+      "branch": "main",
+      "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+      "commit_url": "https://github.com/mattpocock/skills/commit/5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+      "commit_date": "2026-10-19T15:51:40Z",
+      "license": "MIT",
+      "root_notices_copied": [
+        "LICENSE"
+      ],
+      "notes": "",
+      "skill_git_blob": "d039541ddd1c46e6ddbd662fe99d49b686fc5e12",
+      "upstream_files_copied_unchanged": 3,
+      "version": null
+    },
+    {
+      "name": "karpathy-guidelines",
+      "path": "skills/karpathy-guidelines",
+      "repository": "multica-ai/andrej-karpathy-skills",
+      "repository_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "upstream_path": "skills/karpathy-guidelines",
+      "branch": "main",
+      "commit": "2c606141936f1eeef17fa3043a72095b4765b9c2",
+      "commit_url": "https://github.com/multica-ai/andrej-karpathy-skills/commit/2c606141936f1eeef17fa3043a72095b4765b9c2",
+      "commit_date": "2026-04-20T10:05:04Z",
+      "license": "MIT",
+      "root_notices_copied": [],
+      "notes": "MIT is declared in upstream SKILL.md; no standalone license file exists at this commit.",
+      "skill_git_blob": "6a62d0441753157ca6ca50479e490c2948033adb",
+      "upstream_files_copied_unchanged": 1,
+      "version": null
+    },
+    {
+      "name": "ponytail",
+      "path": "skills/ponytail",
+      "repository": "DietrichGebert/ponytail",
+      "repository_url": "https://github.com/DietrichGebert/ponytail",
+      "upstream_path": "skills/ponytail",
+      "branch": "main",
+      "commit": "09c434ab73ca43761c5d8b0c5d341926c2fba710",
+      "commit_url": "https://github.com/DietrichGebert/ponytail/commit/09c434ab73ca43761c5d8b0c5d341926c2fba710",
+      "commit_date": "2026-10-18T01:55:14Z",
+      "license": "MIT",
+      "root_notices_copied": [
+        "LICENSE"
+      ],
+      "notes": "",
+      "skill_git_blob": "d64edd32265ba21cbf5270158f04e97d96925f27",
+      "upstream_files_copied_unchanged": 1,
+      "version": null
+    }
+  ]
+}
